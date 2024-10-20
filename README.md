@@ -1,2 +1,4 @@
 # Internation Receipt Settlement (Protocol)
-Internation Receipt Settlement Protocol
+> Shared sorrow costs half the sats
+
+
