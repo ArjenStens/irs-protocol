@@ -1,2 +1,2 @@
-# Internation Receipt System (Protocol)
-Internation Receipt System Protocol
+# Internation Receipt Settlement (Protocol)
+Internation Receipt Settlement Protocol
